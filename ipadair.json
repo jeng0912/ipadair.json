@@ -1,0 +1,162 @@
+[
+    {
+        "id": "A001",
+        "color": "Space Grey",
+        "storage": "64GB",
+        "network": "Wi-Fi",
+        "price": 19900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A002",
+        "color": "Blue",
+        "storage": "64GB",
+        "network": "Wi-Fi",
+        "price": 19900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-blue-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A003",
+        "color": "Starlight",
+        "storage": "64GB",
+        "network": "Wi-Fi",
+        "price": 19900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-starlight-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A004",
+        "color": "Pink",
+        "storage": "64GB",
+        "network": "Wi-Fi",
+        "price": 19900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-pink-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A005",
+        "color": "Purple",
+        "storage": "64GB",
+        "network": "Wi-Fi",
+        "price": 19900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-purple-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A006",
+        "color": "Space Grey",
+        "storage": "64GB",
+        "network": "Wi-Fi + Cellular",
+        "price": 23900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A007",
+        "color": "Blue",
+        "storage": "64GB",
+        "network": "Wi-Fi + Cellular",
+        "price": 24900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-blue-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A008",
+        "color": "Starlight",
+        "storage": "64GB",
+        "network": "Wi-Fi + Cellular",
+        "price": 24900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-starlight-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A009",
+        "color": "Pink",
+        "storage": "64GB",
+        "network": "Wi-Fi + Cellular",
+        "price": 24900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-pink-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A010",
+        "color": "Purple",
+        "storage": "64GB",
+        "network": "Wi-Fi + Cellular",
+        "price": 24900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-purple-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A011",
+        "color": "Space Grey",
+        "storage": "256GB",
+        "network": "Wi-Fi",
+        "price": 24900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A012",
+        "color": "Blue",
+        "storage": "256GB",
+        "network": "Wi-Fi",
+        "price": 24900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-blue-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A013",
+        "color": "Starlight",
+        "storage": "256GB",
+        "network": "Wi-Fi",
+        "price": 24900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-starlight-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A014",
+        "color": "Pink",
+        "storage": "256GB",
+        "network": "Wi-Fi",
+        "price": 24900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-pink-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A015",
+        "color": "Purple",
+        "storage": "256GB",
+        "network": "Wi-Fi",
+        "price": 24900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-purple-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A016",
+        "color": "Space Grey",
+        "storage": "256GB",
+        "network": "Wi-Fi + Cellular",
+        "price": 29900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A017",
+        "color": "Blue",
+        "storage": "256GB",
+        "network": "Wi-Fi + Cellular",
+        "price": 29900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-blue-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A018",
+        "color": "Starlight",
+        "storage": "256GB",
+        "network": "Wi-Fi + Cellular",
+        "price": 29900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-starlight-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A019",
+        "color": "Pink",
+        "storage": "256GB",
+        "network": "Wi-Fi + Cellular",
+        "price": 29900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-pink-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    },
+    {
+        "id": "A020",
+        "color": "Purple",
+        "storage": "256GB",
+        "network": "Wi-Fi + Cellular",
+        "price": 29900,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-purple-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670879033479"
+    }
+]
